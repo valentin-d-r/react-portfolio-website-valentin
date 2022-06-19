@@ -1,0 +1,17 @@
+.language {
+  display: block;
+  gap: 0.8rem;
+  justify-content: right;
+  font-size: 1.5rem;
+  padding: 0.7rem 1.7rem;
+  position: relative;
+  right: 0.5rem;
+  display: flex;
+  overflow: hidden;
+
+}
+
+.language a.active {
+  color: var(--color-white);
+  font-size: 2rem;
+}
