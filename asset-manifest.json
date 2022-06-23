@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website-valentin/static/css/main.ec1b1a48.css",
+    "main.js": "/react-portfolio-website-valentin/static/js/main.5d23ad04.js",
+    "static/media/four_dungeons.png": "/react-portfolio-website-valentin/static/media/four_dungeons.d12b90709492b7d99344.png",
+    "static/media/wildfibers_feverbattle.png": "/react-portfolio-website-valentin/static/media/wildfibers_feverbattle.29fe88f786118c5dd18b.png",
+    "static/media/val.png": "/react-portfolio-website-valentin/static/media/val.1ccb3425f23d21116e16.png",
+    "static/media/PFI.pdf": "/react-portfolio-website-valentin/static/media/PFI.fd4be6f2a9b7b5d85f8b.pdf",
+    "static/media/Valentin_Dremaux_Resume.pdf": "/react-portfolio-website-valentin/static/media/Valentin_Dremaux_Resume.0b43629540fb9ed16815.pdf",
+    "static/media/Valentin_Dremaux_CV.pdf": "/react-portfolio-website-valentin/static/media/Valentin_Dremaux_CV.e49950cc98d1c6df919f.pdf",
+    "index.html": "/react-portfolio-website-valentin/index.html",
+    "main.ec1b1a48.css.map": "/react-portfolio-website-valentin/static/css/main.ec1b1a48.css.map",
+    "main.5d23ad04.js.map": "/react-portfolio-website-valentin/static/js/main.5d23ad04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec1b1a48.css",
+    "static/js/main.5d23ad04.js"
+  ]
+}
